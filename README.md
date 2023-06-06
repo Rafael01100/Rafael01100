@@ -2,11 +2,6 @@
 ### Oiii eu sou o rafael
 
 
- ![AGitHub stats](https://github-readme-stats.vercel.app/api?username=rafael01100&show_icons=true&theme=tokyonight)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael01100&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div align="center">
-  <a href="https://github.com/rafael01100">
 
   
 
